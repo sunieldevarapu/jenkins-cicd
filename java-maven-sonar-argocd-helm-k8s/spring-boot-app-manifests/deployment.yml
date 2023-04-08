@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sprint-boot-app
-        image: sunieldevarapu/jenkins-cicd:1
+        image: sunieldevarapu/jenkins-cicd:2
         ports:
         - containerPort: 8080
